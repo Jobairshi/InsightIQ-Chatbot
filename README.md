@@ -1,5 +1,3 @@
----
-
 ````markdown
 # IntelliFAQ Frontend
 
@@ -60,6 +58,7 @@ This frontend makes accessing the API **simple, user-friendly, and visually enga
 
 5. **Open in your browser**
    [http://localhost:3000](http://localhost:3000)
+
 ---
 
 ## 🔧 Troubleshooting
@@ -84,5 +83,3 @@ npm start
 ```
 
 **Deploy easily on:** [Vercel](https://vercel.com), [Netlify](https://www.netlify.com/), or any Node.js hosting service.
-
----
